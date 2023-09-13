@@ -1,2 +1,3 @@
 # case-cancelamento-de-clientes
-Projeto de análise de cancelamento de clientes utilizando python.
+
+### Por se tratar de um arquivo jupyter, o case e os códigos estão explicados e documentados dentro do próprio arquivo.
